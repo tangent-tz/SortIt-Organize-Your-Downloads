@@ -1,3 +1,5 @@
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/eb0fd1bd-e0bb-439a-be07-14d642526636" />
+
 # SortIt — Organize Your Downloads Automatically
 
 SortIt automatically organizes your downloads into clean, structured folders — with zero effort.  
